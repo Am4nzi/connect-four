@@ -6,6 +6,10 @@ I complete this project during my time at Spiced Academy [SPICED Academy](https:
 
 ---
 
+## Demo
+
+https://am4nzi.github.io/connect-four/
+
 ## Preview
 
 ![connect-four](https://user-images.githubusercontent.com/45455994/66329936-b4f1f000-e92f-11e9-9b78-9dc9db82c71e.gif)
